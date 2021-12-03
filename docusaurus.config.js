@@ -62,12 +62,7 @@ const config = {
             docId: 'portfolio',
             position: 'left',
             label: 'Learn More',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          }
         ],
       },
       footer: {
